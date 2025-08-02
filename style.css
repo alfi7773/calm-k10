@@ -29,3 +29,13 @@ nav {
     display: flex;
     gap: 20px;
 }
+
+.new-block {
+    display: flex;
+    flex-direction: column;
+    width: 664px;
+    margin: 0 auto;
+    margin-top: 100px;
+    gap: 10px;
+}
+ 
