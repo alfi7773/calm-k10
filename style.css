@@ -40,9 +40,18 @@ nav {
 }
  
 
-.first-image, .second-image {
+.first-image, .second-image, .third-image {
     display: flex;
     flex-direction: column;
     gap: 20px;
     max-width: 505px;
+}
+
+.second-block {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 110px;
+    background-color: #FAFAFA;
+    padding: 50px;
 }
